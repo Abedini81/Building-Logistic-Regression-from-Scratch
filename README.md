@@ -21,4 +21,4 @@ This project implements a Logistic Regression classifier using Python and the Br
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Abedini81/Logistic-Regression.git
+   git clone https://github.com/Abedini81/Building-Logistic-Regression-from-Scratch.git
